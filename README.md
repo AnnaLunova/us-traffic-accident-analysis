@@ -58,14 +58,14 @@ The analysis found several important patterns in the traffic accident data:
 
 ## Key Recommendations
 
-1. **Focus safety efforts during weekday commute hours**  
-   Transportation agencies should consider targeted safety messaging, traffic monitoring, and signal timing improvements during morning and afternoon commute periods.
+1. **Target weekday commute-hour safety interventions**  
+   Focus safety efforts during high-risk commute periods, especially around 7–8 AM and 4–5 PM. Potential KPIs include reducing commute-hour accident counts, lowering average incident duration, and tracking before/after changes in targeted corridors.
 
-2. **Prioritize high-accident states and cities**  
-   High-volume accident locations should be reviewed for local safety improvements, infrastructure issues, and targeted public safety campaigns.
+2. **Prioritize high-volume accident locations for local safety reviews**  
+   Use high-count states and cities as starting points for deeper local analysis. Because the location analysis uses raw accident counts, future work should normalize by population, traffic volume, or vehicle miles traveled before making major infrastructure decisions.
 
-3. **Improve nighttime visibility and response planning**  
-   Since nighttime accidents had longer average duration, agencies should consider improvements such as better lighting, reflective lane markings, incident detection, and emergency response coordination.
+3. **Improve nighttime visibility and incident response planning**  
+   Review nighttime accident hotspots and consider improvements such as lighting, reflective lane markings, incident detection, and emergency response coordination. Potential KPIs include reducing average nighttime accident duration and improving incident clearance time.
 
 ## Tableau Dashboard
 
